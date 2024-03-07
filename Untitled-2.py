@@ -1,0 +1,6 @@
+primernumero= int  (input("escribe el primer numero "))
+segundonumero= int (input("escribe el segundo numero "))
+input(primernumero+segundonumero)
+primernumero= int(input("escribe el primer numero "))
+segundonumero= int(input("escribe el segundo numero "))
+input(segundonumero+primernumero)
